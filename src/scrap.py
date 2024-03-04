@@ -26,10 +26,12 @@ games_paths = {
     "Carcassonne": "https://boardgamearena.com/gamepanel?game=carcassonne",
     "Splendor": "https://boardgamearena.com/gamepanel?game=splendor",
     "Agricola": "https://boardgamearena.com/gamepanel?game=agricola",
+    "StoneAge": "https://boardgamearena.com/gamepanel?game=stoneage",
 }
 
 # List of game names to scrape
 list_of_games = [
+    "StoneAge",
     "Splendor",
 ]
 
